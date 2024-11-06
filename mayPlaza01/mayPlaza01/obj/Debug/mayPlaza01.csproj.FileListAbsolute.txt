@@ -1,0 +1,12 @@
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\bin\Debug\mayPlaza01.exe.config
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\bin\Debug\mayPlaza01.exe
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\bin\Debug\mayPlaza01.pdb
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\bin\Debug\Guna.UI2.dll
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.csproj.AssemblyReference.cache
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.Form1.resources
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.Properties.Resources.resources
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.csproj.GenerateResource.cache
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.csproj.CoreCompileInputs.cache
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.csproj.CopyComplete
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.exe
+C:\1D\WorkSpace\mayplaza\mayPlaza01\mayPlaza01\obj\Debug\mayPlaza01.pdb

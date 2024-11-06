@@ -1,0 +1,12 @@
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\bin\Debug\giaodien01.exe.config
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\bin\Debug\giaodien01.exe
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\bin\Debug\giaodien01.pdb
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\bin\Debug\Guna.UI2.dll
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.csproj.AssemblyReference.cache
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.DangNhap.resources
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.Properties.Resources.resources
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.csproj.GenerateResource.cache
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.csproj.CoreCompileInputs.cache
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.csproj.CopyComplete
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.exe
+C:\1D\WorkSpace\mayplaza\giaodien01\giaodien01\obj\Debug\giaodien01.pdb

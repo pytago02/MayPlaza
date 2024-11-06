@@ -1,0 +1,12 @@
+C:\1D\WorkSpace\mayplaza\testButton\testButton\bin\Debug\testButton.exe.config
+C:\1D\WorkSpace\mayplaza\testButton\testButton\bin\Debug\testButton.exe
+C:\1D\WorkSpace\mayplaza\testButton\testButton\bin\Debug\testButton.pdb
+C:\1D\WorkSpace\mayplaza\testButton\testButton\bin\Debug\Guna.UI2.dll
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.csproj.AssemblyReference.cache
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.Form1.resources
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.Properties.Resources.resources
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.csproj.GenerateResource.cache
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.csproj.CoreCompileInputs.cache
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.csproj.CopyComplete
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.exe
+C:\1D\WorkSpace\mayplaza\testButton\testButton\obj\Debug\testButton.pdb

@@ -1,0 +1,15 @@
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Debug\winformapp.exe.config
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Debug\winformapp.exe
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Debug\winformapp.pdb
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Debug\Guna.UI2.dll
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.csproj.AssemblyReference.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.fLogin.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.Properties.Resources.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.csproj.GenerateResource.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.csproj.CoreCompileInputs.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.csproj.CopyComplete
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.exe
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.pdb
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.main.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.QuanLyPhong.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Debug\winformapp.AllUseControl.UC_AddRoom.resources

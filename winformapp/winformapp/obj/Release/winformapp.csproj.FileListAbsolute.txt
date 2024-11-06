@@ -1,0 +1,14 @@
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Release\winformapp.exe.config
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Release\winformapp.exe
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Release\winformapp.pdb
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\bin\Release\Guna.UI2.dll
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.csproj.AssemblyReference.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.AllUseControl.UC_AddRoom.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.fLogin.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.main.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.Properties.Resources.resources
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.csproj.GenerateResource.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.csproj.CoreCompileInputs.cache
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.csproj.CopyComplete
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.exe
+C:\1D\WorkSpace\mayplaza\winformapp\winformapp\obj\Release\winformapp.pdb
